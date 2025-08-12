@@ -1,0 +1,76 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build artifacts
+android/app/debug
+android/app/profile
+android/app/release
+
+# Firebase and sensitive files
+lib/firebase_options.dart
+backend/.env
+backend/*.json
+travel_project/backend/.env
+travel_project/backend/*.json
+travel_project/android/app/google-services.json
+
+# Backend cache/env/deps
+backend/__pycache__/
+backend/venv/
+backend/node_modules/
+travel_project/backend/__pycache__/
+travel_project/backend/venv/
+travel_project/backend/node_modules/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
+
+# iOS & macOS
+**/ios/Flutter/.last_build_id
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/
+**/ios/Runner.xcworkspace/xcshareddata/
+**/ios/Pods/
+**/macos/Flutter/GeneratedPluginRegistrant.*
+**/macos/Pods/
+
+# Web related
+**/web/favicon.png
+**/web/icons/
