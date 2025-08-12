@@ -1,0 +1,2 @@
+C:/Users/Hp/travel-project/travel_project/android/app/.cxx/RelWithDebInfo/4d4b1k6i/x86/CMakeFiles/edit_cache.dir
+C:/Users/Hp/travel-project/travel_project/android/app/.cxx/RelWithDebInfo/4d4b1k6i/x86/CMakeFiles/rebuild_cache.dir
